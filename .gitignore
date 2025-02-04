@@ -9,6 +9,7 @@ target/
 .idea/modules.xml
 .idea/uiDesigner.xml
 .idea/jarRepositories.xml
+.idea/workspace.xml
 .idea/vcs.xml
 .idea/compiler.xml
 .idea/libraries/
